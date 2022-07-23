@@ -106,6 +106,8 @@ public class ModuleRegistry {
         registerModule(HiddenPlayers.class);
         registerModule(SignCrash.class);
         registerModule(EntityCrash.class);
+        registerModule(SoundLogger.class);
+        registerModule(Godaura.class);
 
         // Old
         registerModule(Flight.class);
