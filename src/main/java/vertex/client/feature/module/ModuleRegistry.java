@@ -103,6 +103,7 @@ public class ModuleRegistry {
         // New
         registerModule(InvalidIntCrash.class);
         registerModule(HiddenPlayers.class);
+        registerModule(SignCrash.class);
 
         // Old
         registerModule(Flight.class);
