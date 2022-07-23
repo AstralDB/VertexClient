@@ -2,7 +2,7 @@
  * Copyright (c) 2022 Coffee Client, 0x150 and contributors. All rights reserved.
  */
 
-package vertex.client.feature.module.impl.misc;
+package vertex.client.feature.module.impl.util;
 
 import vertex.client.VertexMain;
 import vertex.client.feature.config.BooleanSetting;

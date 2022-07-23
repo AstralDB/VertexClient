@@ -4,7 +4,7 @@
 
 package vertex.client.mixin;
 
-import vertex.client.feature.module.impl.misc.AntiCrash;
+import vertex.client.feature.module.impl.util.AntiCrash;
 import net.minecraft.text.Style;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

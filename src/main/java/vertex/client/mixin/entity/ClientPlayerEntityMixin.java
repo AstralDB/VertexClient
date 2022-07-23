@@ -6,7 +6,7 @@ package vertex.client.mixin.entity;
 
 import vertex.client.feature.module.Module;
 import vertex.client.feature.module.ModuleRegistry;
-import vertex.client.feature.module.impl.misc.PortalGUI;
+import vertex.client.feature.module.impl.exploit.PortalGUI;
 import vertex.client.feature.module.impl.movement.NoPush;
 import vertex.client.feature.module.impl.movement.Phase;
 import vertex.client.feature.module.impl.render.Freecam;

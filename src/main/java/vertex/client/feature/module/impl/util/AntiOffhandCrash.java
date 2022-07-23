@@ -2,7 +2,7 @@
  * Copyright (c) 2022 Coffee Client, 0x150 and contributors. All rights reserved.
  */
 
-package vertex.client.feature.module.impl.misc;
+package vertex.client.feature.module.impl.util;
 
 import vertex.client.feature.module.Module;
 import vertex.client.feature.module.ModuleType;

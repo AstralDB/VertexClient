@@ -4,7 +4,7 @@
 
 package vertex.client.mixin.entity;
 
-import vertex.client.feature.module.impl.misc.AntiCrash;
+import vertex.client.feature.module.impl.util.AntiCrash;
 import vertex.client.mixinUtil.ParticleManagerDuck;
 import vertex.client.VertexMain;
 import net.minecraft.entity.AreaEffectCloudEntity;

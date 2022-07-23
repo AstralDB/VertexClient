@@ -10,7 +10,7 @@ import vertex.client.feature.command.coloring.ArgumentType;
 import vertex.client.feature.command.impl.SelfDestruct;
 import vertex.client.feature.module.ModuleRegistry;
 import vertex.client.feature.module.impl.misc.ClientSettings;
-import vertex.client.feature.module.impl.misc.InfChatLength;
+import vertex.client.feature.module.impl.util.InfChatLength;
 import vertex.client.helper.font.FontRenderers;
 import vertex.client.helper.render.MSAAFramebuffer;
 import vertex.client.helper.render.Renderer;

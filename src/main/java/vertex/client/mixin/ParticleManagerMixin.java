@@ -4,7 +4,7 @@
 
 package vertex.client.mixin;
 
-import vertex.client.feature.module.impl.misc.AntiCrash;
+import vertex.client.feature.module.impl.util.AntiCrash;
 import vertex.client.mixinUtil.ParticleManagerDuck;
 import net.minecraft.client.particle.Particle;
 import net.minecraft.client.particle.ParticleManager;

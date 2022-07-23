@@ -13,7 +13,10 @@ import vertex.client.feature.module.impl.exploit.*;
 import vertex.client.feature.module.impl.misc.*;
 import vertex.client.feature.module.impl.movement.*;
 import vertex.client.feature.module.impl.render.*;
+import vertex.client.feature.module.impl.util.AntiCrash;
+import vertex.client.feature.module.impl.util.AntiOffhandCrash;
 import vertex.client.feature.module.impl.util.HiddenPlayers;
+import vertex.client.feature.module.impl.util.InfChatLength;
 import vertex.client.feature.module.impl.world.*;
 
 import java.lang.reflect.Constructor;
@@ -104,6 +107,7 @@ public class ModuleRegistry {
         registerModule(InvalidIntCrash.class);
         registerModule(HiddenPlayers.class);
         registerModule(SignCrash.class);
+        registerModule(EntityCrash.class);
 
         // Old
         registerModule(Flight.class);

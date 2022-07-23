@@ -4,7 +4,7 @@
 
 package vertex.client.mixin.render;
 
-import vertex.client.feature.module.impl.misc.AntiCrash;
+import vertex.client.feature.module.impl.util.AntiCrash;
 import net.minecraft.client.gui.hud.BossBarHud;
 import net.minecraft.client.util.math.MatrixStack;
 import org.spongepowered.asm.mixin.Mixin;

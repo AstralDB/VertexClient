@@ -5,7 +5,7 @@
 package vertex.client.mixin.network;
 
 import vertex.client.feature.module.ModuleRegistry;
-import vertex.client.feature.module.impl.misc.AntiPacketKick;
+import vertex.client.feature.module.impl.exploit.AntiPacketKick;
 import vertex.client.helper.event.EventType;
 import vertex.client.helper.event.Events;
 import vertex.client.helper.event.events.PacketEvent;
