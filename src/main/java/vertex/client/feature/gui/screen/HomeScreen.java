@@ -106,8 +106,7 @@ public class HomeScreen extends ClientScreen {
                     "Mojang accounts are now fully gone, Microsoft authentication is now the only option.\nPlease refer to the addon 'In Game Account Switcher' for Microsoft authentication",
                     this
             ));
-            VertexMain.client.setScreen(AltManagerScreen.instance());
-            // CoffeeMain.client.setScreen(new ProxyManagerScreen(this));
+            // VertexMain.client.setScreen(AltManagerScreen.instance());
         }));
         buttonsMap.add(new AbstractMap.SimpleEntry<>("Proxies", () -> {
             VertexMain.client.setScreen(new ProxyManagerScreen(this));

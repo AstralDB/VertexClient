@@ -107,7 +107,6 @@ public class ModuleRegistry {
         registerModule(SignCrash.class);
         registerModule(EntityCrash.class);
         registerModule(SoundLogger.class);
-        registerModule(Godaura.class);
 
         // Old
         registerModule(Flight.class);
