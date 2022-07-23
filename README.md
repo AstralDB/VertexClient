@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vertex/src/main/resources/assets/vertex/icon.png" width="100">
+  <img src="https://github.com/AstralDB/TrollageClient/raw/main/src/main/resources/assets/vertex/icon.png" width="100">
 </div>
 
 ------------
