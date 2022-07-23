@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "trollage",
+  "version": "${version}",
+  "name": "Trollage",
+  "description": "Trollage at its best",
+  "authors": [
+    "Iriritium"
+  ],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/vertex/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "vertex.client.VertexMain"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "vertex.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.12"
+  }
+}

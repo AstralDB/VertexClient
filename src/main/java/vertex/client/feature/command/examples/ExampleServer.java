@@ -1,0 +1,13 @@
+/*
+ * Copyright (c) 2022 Coffee Client, 0x150 and contributors. All rights reserved.
+ */
+
+package vertex.client.feature.command.examples;
+
+import vertex.client.feature.command.Command;
+
+public class ExampleServer {
+    public static Command.ExamplesEntry getPlayerNames() {
+        return new Command.ExamplesEntry("Notch", "Herobrine", "Player123");
+    }
+}
