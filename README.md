@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://github.com/AstralDB/TrollageClient/raw/main/src/main/resources/assets/vertex/icon.png" width="100">
+  <br>
+  
 </div>
+<hr>
 
-------------
-
-A 1.19 fabric mod with useful features for <i>"enforcing"</i> the <i>["Minecraft commercial use guidelines"](https://account.mojang.com/documents/commercial_guidelines#:~:text=sell%20entitlements%20that%20affect%20gameplay)</i> on certian Minecraft servers. 
+Trollage Client a/k/a "Project Vertex" is a 1.19 fabric mod with useful features for <i>"enforcing"</i> the <i>["Minecraft commercial use guidelines"](https://account.mojang.com/documents/commercial_guidelines#:~:text=sell%20entitlements%20that%20affect%20gameplay)</i> on certian Minecraft servers. 
 
 <br>
 
