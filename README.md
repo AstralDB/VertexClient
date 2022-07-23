@@ -6,6 +6,12 @@
 
 A 1.19 fabric mod with useful features for <i>"enforcing"</i> the <i>["Minecraft commercial use guidelines"](https://account.mojang.com/documents/commercial_guidelines#:~:text=sell%20entitlements%20that%20affect%20gameplay)</i> on certian Minecraft servers. 
 
+<br>
+
+<img src="https://img.shields.io/github/stars/AstralDB/TrollageClient?color=000000&style=for-the-badge"/><br>
+<a href="https://github.com/AstralDB/TrollageClient/raw/master/builds/latest.jar">
+  <img src="https://img.shields.io/github/downloads/AstralDB/TrollageClient/total?color=000000&style=for-the-badge&label=Downloads%20via%20releases">
+</a>
 
 ## Installation
 
