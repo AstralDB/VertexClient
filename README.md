@@ -37,3 +37,11 @@ The default launcher should already choose java 16 for the runtime, so you're fr
 1. Install [fabric](https://fabricmc.net/use/) for 1.19
 2. Drag the .jar into the `~/Library/Application Support/minecraft/mods` folder
 3. Launch fabric loader for 1.19 via the minecraft launcher
+
+
+## Credits
+[Orly](https://github.com/AstralDB) Maintaining the repository, main developer
+
+[19MisterX98](https://github.com/19MisterX98) Client layout, module system
+
+[Earthcomputer](https://github.com/Earthcomputer) Built Multi-connect non server-side protocol bridge
