@@ -107,6 +107,7 @@ public class ModuleRegistry {
         registerModule(SignCrash.class);
         registerModule(EntityCrash.class);
         registerModule(SoundLogger.class);
+        registerModule(ForceOpBook.class);
 
         // Old
         registerModule(Flight.class);
