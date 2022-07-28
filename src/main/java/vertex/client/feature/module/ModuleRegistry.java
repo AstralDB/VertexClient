@@ -105,6 +105,7 @@ public class ModuleRegistry {
         registerModule(EntityCrash.class);
         registerModule(SoundLogger.class);
         registerModule(ForceOpBook.class);
+        registerModule(NoCom.class);
 
         // Old
         registerModule(Flight.class);
@@ -203,7 +204,6 @@ public class ModuleRegistry {
         registerModule(ShowTntPrime.class);
         registerModule(BlockHighlighting.class);
         registerModule(AutoIgnite.class);
-        registerModule(DiscordRPC.class);
         registerModule(AirPlace.class);
         registerModule(AutoFish.class);
         registerModule(Reach.class);
@@ -241,8 +241,7 @@ public class ModuleRegistry {
             long lockStartns = System.nanoTime();
             while (reloadInProgress.get()) {
                 Thread.onSpinWait();
-            }
-            VertexMain.log(Level.INFO, "Lock opened within " + (System.currentTimeMillis() - lockStart) + " ms (" + (System.nanoTime() - lockStartns) + " ns)");
+            }            VertexMain.log(Level.INFO, "Lock opened within " + (System.currentTimeMillis() - lockStart) + " ms (" + (System.nanoTime() - lockStartns) + " ns)");
         }
 
     }

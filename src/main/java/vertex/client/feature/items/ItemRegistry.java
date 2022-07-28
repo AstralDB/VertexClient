@@ -3,13 +3,7 @@
 package vertex.client.feature.items;
 
 
-import vertex.client.feature.items.impl.Backdoor;
-import vertex.client.feature.items.impl.Fireball;
-import vertex.client.feature.items.impl.InfiniSculk;
-import vertex.client.feature.items.impl.InfiniteEntity;
-import vertex.client.feature.items.impl.Nuke;
-import vertex.client.feature.items.impl.Plague;
-import vertex.client.feature.items.impl.Poof;
+import vertex.client.feature.items.impl.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,6 +18,7 @@ public class ItemRegistry {
 
     void init() {
         items.clear();
+        items.add(new AutoOp());
         items.add(new Nuke());
         items.add(new Plague());
         items.add(new Poof());

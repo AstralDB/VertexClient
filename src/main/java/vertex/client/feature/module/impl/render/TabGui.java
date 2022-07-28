@@ -2,6 +2,7 @@
 
 package vertex.client.feature.module.impl.render;
 
+import net.minecraft.text.Text;
 import vertex.client.feature.gui.theme.ThemeManager;
 import vertex.client.feature.module.Module;
 import vertex.client.feature.module.ModuleRegistry;
@@ -149,7 +150,7 @@ public class TabGui extends Module {
                     if (lastEnabledStackHeight != 0) {
                         Renderer.R2D.renderRoundedQuad(
                                 stack,
-                                new Color(40, 40, 40, 200),
+                                new Color(20, 20, 20, 200),
                                 scrollerWidth + padOuter + 1,
                                 lastEnabledStackY,
                                 width - 2,

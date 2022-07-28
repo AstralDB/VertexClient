@@ -40,6 +40,8 @@ dependencies {
 	mappings("net.fabricmc:yarn:${project.yarn_mappings}:v2")
 	modImplementation("net.fabricmc:fabric-loader:${project.loader_version}")
 
+	implementation "meteordevelopment:orbit:0.2.3"
+
 	// Lombok
 	compileOnly(group: "org.projectlombok", name: "lombok", version: "1.18.24")
 	annotationProcessor(group: "org.projectlombok", name: "lombok", version: "1.18.24")

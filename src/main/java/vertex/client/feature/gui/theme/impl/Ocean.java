@@ -8,11 +8,11 @@ import java.awt.Color;
 
 public class Ocean implements Theme {
 
-    static final Color accent = new Color(0xe0a9fc);
-    static final Color module = new Color(0xFF171E1F, true);
-    static final Color config = new Color(0xFF111A1A, true);
-    static final Color active = new Color(201, 100, 252, 255);
-    static final Color inactive = new Color(66, 66, 66, 255);
+    static final Color accent = new Color(0xa980bf);
+    static final Color module = new Color(0xFF0f0f0f, true);
+    static final Color config = new Color(0xFF0f0f0f, true);
+    static final Color active = new Color(253, 161, 233, 255);
+    static final Color inactive = new Color(42, 42, 42, 255);
 
     @Override
     public String getName() {

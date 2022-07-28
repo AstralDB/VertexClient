@@ -2,6 +2,7 @@
 
 package vertex.client.feature.module;
 
+import net.minecraft.text.Text;
 import vertex.client.feature.gui.notifications.Notification;
 import vertex.client.VertexMain;
 import vertex.client.feature.config.BooleanSetting;
