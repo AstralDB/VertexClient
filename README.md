@@ -46,6 +46,49 @@ The default launcher should already choose java 16 for the runtime, so you're fr
 3. Launch fabric loader for 1.19 via the minecraft launcher
 
 
+## Features
+#### Combat Modules
+```
+Aim Assist
+Auto Attack
+Auto Trap
+Packet Criticals
+Crystal Aura - Disabled till entitys are fixed in fabric
+Fireball Aura
+Killarua 
+Reach
+Shulker Arua
+TP Arua
+Velocity
+```
+#### Dupes
+```
+Item-frame Dupe - sweetanarchy.net
+Shulkerbox Dupe - 5b5t.net
+```
+#### Exploits
+```
+Anti-Xray Bypass
+Anti-Packet Kick
+Anti RDI
+Boat Crash
+Brand Spoofer
+Carpet Bomber
+Chunk Crash
+Entity Packet Crash
+Force OP Book - Requires Creative / NBT Edit
+Instant Bow
+Invalid INT Crash - Crashes all servers running 1.6 - 1.18.1
+NoCom Crash
+NoCom
+Offhand Crash
+Ping Spoof
+Portal Usage GUI
+Sign Crash
+Sound Logger
+```
+
+
 ## Credits
 [Orly](https://github.com/AstralDB) Maintaining the repository, main developer
 
