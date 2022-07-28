@@ -87,7 +87,94 @@ Portal Usage GUI
 Sign Crash
 Sound Logger
 ```
-
+#### Misc
+```
+Minehut Blocker - Bypass being sent to an AD server
+Allow Formats
+More Chat History
+No Titles
+Autism Spinning - Derp with extra retarded-ness
+Timer
+Crafting Table Carry
+```
+#### Movement
+```
+Air Jump
+Anti Anvil
+Elytra Fly
+Blink
+Blocks MC Flight Bypass
+Boat Phase
+Bouncy
+Click Teleport
+Edge Jump
+Edge Sneak
+Auto Elytra
+Flight
+Ignore World-Border
+Inventory Walk
+Jesus Haxxx
+Long Jump
+Moon Gravity
+No Fall
+No Jump Cooldown
+No levitation
+No Push
+Phase
+Slippy Blocks
+Sprint
+Step 
+Swing
+Vanilla Speed
+```
+#### Render
+```
+Block Highlight
+Cave Mapper
+Chest ESP
+ESP
+Fake Hacker
+Free Look
+Freecam
+Full Bright
+HUD
+Byte Size
+Mouse Ears
+Name Tags
+Radar
+TNT Timer
+Tracers
+Trail 
+Zoom
+```
+#### Util
+```
+Anti Crash
+Anti Offhand Crash
+Hidden Players
+Infinite Chat Length
+```
+#### World
+```
+Air Place
+Any Placer
+Auto Fish
+Auto Lavacast
+Auto Sign
+Auto TNT
+Auto Tool
+Block Tag
+Boomer
+Fast Use
+Land Flatterner
+God Bridge
+Instant Break / Packet Mine
+Mass Use
+Nuker
+Scaffold
+Survival Nuker
+Xray
+```
 
 ## Credits
 [Orly](https://github.com/AstralDB) Maintaining the repository, main developer
