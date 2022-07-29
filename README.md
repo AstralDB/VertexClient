@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AstralDB/TrollageClient/raw/main/images/vertexLogo.png" width="100">
+  <img src="https://github.com/AstralDB/VertexClient/raw/main/images/vertexLogo.png" width="100">
   <br>
   
 </div>
@@ -9,15 +9,15 @@ Vertex is a 1.19 fabric mod with **112** useful modules for <i>"enforcing"</i> t
 
 <br>
 
-<img src="https://img.shields.io/github/stars/AstralDB/TrollageClient?color=000000&style=for-the-badge"/><br>
-<a href="https://github.com/AstralDB/TrollageClient/raw/main/bin/latest.jar">
-  <img src="https://img.shields.io/github/downloads/AstralDB/TrollageClient/total?color=000000&style=for-the-badge&label=Downloads%20via%20releases">
+<img src="https://img.shields.io/github/stars/AstralDB/VertexClient?color=000000&style=for-the-badge"/><br>
+<a href="https://github.com/AstralDB/VertexClient/raw/main/bin/latest.jar">
+  <img src="https://img.shields.io/github/downloads/AstralDB/VertexClient/total?color=000000&style=for-the-badge&label=Downloads%20via%20releases">
 </a>
 
 ## Installation
 
 Lazy People:
-Download in the `builds` folder, or [here](https://github.com/AstralDB/TrollageClient/raw/main/bin/latest.jar) for a direct download link
+Download in the `builds` folder, or [here](https://github.com/AstralDB/VertexClient/raw/main/bin/latest.jar) for a direct download link
 
 
 ### GNU/Linux - Recommended 
