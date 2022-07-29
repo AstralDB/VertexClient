@@ -45,6 +45,11 @@ public class CommandRegistry {
 
     public static void init() {
         vanillaCommands.clear();
+
+
+        // Added New
+        vanillaCommands.add(new FakeBan());
+
         vanillaCommands.add(new Toggle());
         vanillaCommands.add(new Config());
         vanillaCommands.add(new Gamemode());

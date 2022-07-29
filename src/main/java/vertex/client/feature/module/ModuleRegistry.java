@@ -7,6 +7,8 @@ import org.apache.logging.log4j.Level;
 import vertex.client.VertexMain;
 import vertex.client.feature.addon.Addon;
 import vertex.client.feature.module.impl.combat.*;
+import vertex.client.feature.module.impl.dupes.ShulkerDupe;
+import vertex.client.feature.module.impl.dupes.VanillaDupe;
 import vertex.client.feature.module.impl.exploit.*;
 import vertex.client.feature.module.impl.misc.*;
 import vertex.client.feature.module.impl.movement.*;
@@ -106,6 +108,8 @@ public class ModuleRegistry {
         registerModule(SoundLogger.class);
         registerModule(ForceOpBook.class);
         registerModule(NoCom.class);
+        registerModule(ShulkerDupe.class);
+        registerModule(VanillaDupe.class);
 
         // Old
         registerModule(Flight.class);
