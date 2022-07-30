@@ -30,7 +30,7 @@ public class FakeBan extends Command {
 
     @Override
     public void onExecute(String[] args) throws CommandException {
-        validateArgumentsLength(args, 1, "Provide ban target's username");
+        validateArgumentsLength(args, 1, "Provide ban reason!");
         VertexMain.client.player.networkHandler.getConnection().disconnect(Text.of("§cYou are permanently banned from this server!§r\n§7Reason:§r§f " + args[0]));
     }
 }

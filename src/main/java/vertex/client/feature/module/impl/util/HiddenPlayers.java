@@ -20,15 +20,8 @@ import java.util.Dictionary;
 
 public class HiddenPlayers extends Module {
 
-    final DoubleSetting a = this.config.create(new DoubleSetting.Builder(500).precision(0)
-            .name("Amount")
-            .description("How many crash packets to send per tick")
-            .min(10)
-            .max(10000)
-            .get());
-
     public HiddenPlayers() {
-        super("ArmorNotify", "Notifies you when your armor pieces are low!", ModuleType.UTIL);
+        super("HiddenPlayers", "Notifies you when your armor pieces are low!", ModuleType.UTIL);
     }
 
     @Override
@@ -37,7 +30,7 @@ public class HiddenPlayers extends Module {
     @Override
     public void enable() {
         for (PlayerListEntry entry : VertexMain.client.getNetworkHandler().getPlayerList()) {
-            Utils.Logging.message("Found: " + entry);
+            Utils.Logging.message("Player Found: " + entry);
         }
     }
 
