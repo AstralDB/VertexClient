@@ -13,6 +13,7 @@ public enum ModuleType {
     EXPLOIT("Exploit", GameTexture.ICONS_EXPLOIT.getWhere()),
     UTIL("Utility", GameTexture.ICONS_UTIL.getWhere()),
     ADDON_PROVIDED("Addons", GameTexture.ICONS_ADDON_PROVIDED.getWhere()),
+    DUPES("Dupes", GameTexture.ICONS_EXPLOIT.getWhere()),
     COMBAT("Combat", GameTexture.ICONS_COMBAT.getWhere());
 
 

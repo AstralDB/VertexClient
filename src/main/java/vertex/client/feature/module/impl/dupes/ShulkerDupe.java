@@ -23,7 +23,7 @@ import vertex.client.helper.util.Utils;
 public class ShulkerDupe extends Module {
 
     public ShulkerDupe() {
-        super("Shulker Dupe", "Dupes with shulkers!", ModuleType.MISC);
+        super("Shulker Dupe", "Dupes with shulkers!", ModuleType.DUPES);
         Events.registerEventHandler(EventType.PACKET_SEND, event1 -> {
             if (!this.isEnabled()) {
                 return;

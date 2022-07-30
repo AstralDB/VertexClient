@@ -26,6 +26,8 @@ public enum GameTexture {
     ICONS_MISC(new Texture("icons/misc"), "https://github.com/Coffee-Client/Resources/raw/master/misc.png"),
     ICONS_WORLD(new Texture("icons/world"), "https://github.com/Coffee-Client/Resources/raw/master/world.png"),
     ICONS_EXPLOIT(new Texture("icons/exploit"), "https://github.com/Coffee-Client/Resources/raw/master/exploit.png"),
+    ICONS_DUPES(new Texture("icons/dupes"), "https://github.com/Coffee-Client/Resources/raw/master/exploit.png"),
+
     ICONS_COMBAT(new Texture("icons/combat"), "https://github.com/Coffee-Client/Resources/raw/master/combat.png"),
 
     ACTION_RUNCOMMAND(new Texture("actions/runCommand"), "https://github.com/Coffee-Client/Resources/raw/master/command.png"),

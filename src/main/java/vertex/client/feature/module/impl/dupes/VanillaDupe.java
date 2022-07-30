@@ -21,7 +21,7 @@ import vertex.client.helper.util.Utils;
 public class VanillaDupe extends Module {
 
     public VanillaDupe() {
-        super("Vanilla Dupe", "Dupes on Vanilla servers, patched on 1.14+", ModuleType.MISC);
+        super("Vanilla Dupe", "Dupes on Vanilla servers, patched on 1.14+", ModuleType.DUPES);
     }
 
     @Override
